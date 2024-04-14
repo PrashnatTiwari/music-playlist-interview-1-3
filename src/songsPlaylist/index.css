@@ -1,0 +1,28 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin: 10px;
+}
+
+.track-container {
+  display: flex;
+  width: 25vw;
+  justify-content: space-between;
+}
+
+.genre {
+  color: #3b82f6;
+}
+
+.duration-delete-container {
+  display: flex;
+  width: 30vw;
+  justify-content: space-between;
+}
+
+.track-image {
+  height: 100px;
+  width: 200px;
+}
